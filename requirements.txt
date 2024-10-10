@@ -1,0 +1,10 @@
+pandas
+numpy==1.26.4
+transformers==4.44.2
+nltk
+spacy
+transformers
+torch
+nbdime
+datasets
+model2vec
