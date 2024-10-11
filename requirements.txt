@@ -1,10 +1,11 @@
-pandas
+pandas==2.2.3
 numpy==1.26.4
 transformers==4.44.2
-nltk
-spacy
-transformers
+nltk==3.9.1
+spacy==3.7.5
+transformers==4.44.2
 torch
-nbdime
-datasets
+nbdime==4.0.2
+datasets==3.0.1
 model2vec
+evaluate==0.4.3
