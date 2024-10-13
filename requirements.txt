@@ -9,3 +9,4 @@ nbdime==4.0.2
 datasets==3.0.1
 model2vec
 evaluate==0.4.3
+tf-keras==2.16
